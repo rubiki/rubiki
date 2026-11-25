@@ -1,16 +1,18 @@
-## Hi there 👋
+# hihi, i’m rubiki ⭐
 
-<!--
-**rubiki/rubiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i do **roblox serversiding**: scripts that run on the server side, tools, and fun little things.
 
-Here are some ideas to get you started:
+## find me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎥 youtube: [@rubi_ki](https://www.youtube.com/@rubi_ki)
+- 🌐 site: [rubiki.nekoweb.org](https://rubiki.nekoweb.org)
+- 💬 discord: `rubikiwho`
+- ✉️ email: [rubikikubiki@proton.me](mailto:rubikikubiki@proton.me)
+
+## what i make
+
+- serversided roblox scripts
+- tools and little experiments
+- videos about it on youtube
+
+thanks for stopping by!
